@@ -1,12 +1,12 @@
 <h1>Privacy Policy</h1>
 
 
-<p>Effective date: April 02, 2019</p>
+<p>Effective date: May 06, 2020</p>
 
 
-<p>DiveSocial ("us", "we", or "our") operates the DiveSocial mobile application (hereinafter referred to as the "Service").</p>
+<p>Cherio ("us", "we", or "our") operates the Cherio mobile application (hereinafter referred to as the "Service").</p>
 
-<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy  for DiveSocial is created with the help of the <a href="https://privacypolicies.com/privacy-policy-generator/">PrivacyPolicies.com Privacy Policy Generator</a>.</p>
+<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.</p>
 
 <p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p>
 
@@ -32,7 +32,7 @@
 <h4>Tracking & Cookies Data</h4>
 <p>We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.</p>
 <p>Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.</p>
-<p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service. You can learn more how to manage cookies in the <a href="https://privacypolicies.com/blog/how-to-delete-cookies/">Browser Cookies Guide</a>.</p>
+<p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service. </p>
 <p>Examples of Cookies we use:</p>
 <ul>
     <li><strong>Session Cookies.</strong> We use Session Cookies to operate our Service.</li>
@@ -42,7 +42,7 @@
 
 <h2>Use of Data</h2>
 
-<p>DiveSocial uses the collected data for various purposes:</p>
+<p>Cherio uses the collected data for various purposes:</p>
 <ul>
     <li>To provide and maintain the Service</li>
     <li>To notify you about changes to our Service</li>
@@ -57,12 +57,12 @@
 <p>Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p>
 <p>If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.</p>
 <p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
-<p>DiveSocial will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p>
+<p>Cherio will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p>
 
 <h2>Disclosure Of Data</h2>
 
 <h3>Legal Requirements</h3>
-<p>DiveSocial may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
+<p>Cherio may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
 <ul>
     <li>To comply with a legal obligation</li>
     <li>To protect and defend the rights or property of DiveSocial</li>
@@ -99,6 +99,6 @@
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
-        <li>By email: divesocialhelp@gmail.com</li>
+        <li>By email: chris@cherio.app</li>
 
         </ul>
