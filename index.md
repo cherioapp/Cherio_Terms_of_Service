@@ -65,7 +65,7 @@
 <p>Cherio may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
 <ul>
     <li>To comply with a legal obligation</li>
-    <li>To protect and defend the rights or property of DiveSocial</li>
+    <li>To protect and defend the rights or property of Cherio</li>
     <li>To prevent or investigate possible wrongdoing in connection with the Service</li>
     <li>To protect the personal safety of users of the Service or the public</li>
     <li>To protect against legal liability</li>
