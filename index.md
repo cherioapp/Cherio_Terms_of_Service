@@ -1,4 +1,4 @@
-<p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:center;'><strong><span style="font-size:19px;">Cherio Terms and Conditions of Use</span></strong></p>
+<h1>Cherio Terms and Conditions of Use</h1>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><strong>Agreements between Users (&ldquo;Users&rdquo;) and Cherio</strong></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
