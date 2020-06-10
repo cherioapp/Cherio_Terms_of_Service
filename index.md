@@ -34,11 +34,7 @@
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>To use the Cherio Services, you must set up a unique User account (&ldquo;Account&rdquo;), which includes a unique and complex password (&ldquo;Password&rdquo;) used to access your Account. You are solely responsible for maintaining the confidentiality and security of your Account and Password. Such security includes, but is not limited to restricting access to your Device that you use to access the Cherio Services and/or where such Password may be stored. You agree that you are solely responsible for all activities and actions that occur under the auspices of your Account. You agree not to assign or otherwise transfer your Account to or share your Password with any other person or entity. You acknowledge and agree that Cherio is not responsible for third party access to your Account that results from theft or misappropriation of your Password or other Account credentials. Cherio reserves the right to refuse or cancel service, terminate Accounts, or disqualify Users, in our sole discretion. Cherio also reserves all available legal rights and remedies to prevent the unauthorized use of the Cherio Services, including, but not limited to, technological barriers, IP mapping, and contacting your internet service provider. You hereby acknowledge and agree that any action taken under your Account will be presumed to have been authorized by you.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
-<div style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'>
-    <ol style="margin-bottom:0in;list-style-type: undefined;margin-left:-0.25in;">
-        <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'><strong>Prohibited Conduct&nbsp;</strong></li>
-    </ol>
-</div>
+<p><strong>4. Prohibited Conduct&nbsp;</strong></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>You are granted a non-exclusive, non-transferable, revocable license to access and use the Software and the Cherio Services, strictly in accordance with these Terms. As a condition of your use of the Cherio Services, you represent and warrant to Cherio that you will not use the Software or the Cherio Services for any purpose that is unlawful or prohibited by these Terms. Further, you agree that you will comply with these Terms and will not:</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
@@ -100,11 +96,7 @@
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>If you upload any materials or content that violates this Section or otherwise violate these Terms in any way, Cherio reserves the right to, in Cherio&rsquo; sole discretion, permanently remove any materials, content, and/or terminate your access to the Cherio Services</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
-<div style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'>
-    <ol style="margin-bottom:0in;list-style-type: undefined;margin-left:-0.25in;">
-        <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'><strong>Disclaimer, Limitation of Liability&nbsp;</strong></li>
-    </ol>
-</div>
+<p><strong>5. Disclaimer, Limitation of Liability&nbsp;</strong></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>All information provided by Cherio through the Cherio Services is for informational purposes only and Cherio does not guarantee the accuracy, completeness, timeliness, or reliability of any such information or Content. The Cherio Services are provided &ldquo;as-is&rdquo; and Cherio does not guarantee that they are safe, secure, or functional at all times.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
@@ -116,63 +108,35 @@
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>You hereby agree that Cherio will not be liable for any lost profits, revenues, information, or data, or consequential, special, indirect, exemplary, punitive, or incidental damages arising out of or related to these Terms or your use of the Cherio Services. Cherio&rsquo; aggregate liability arising out of or related to these Terms or your use of the Cherio Services will not exceed the greater of one hundred dollars ($100.00) or the amount you have paid Cherio in the past calendar year.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
-<div style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'>
-    <ol style="margin-bottom:0in;list-style-type: undefined;margin-left:-0.25in;">
-        <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'><strong>Representations as a User&nbsp;</strong></li>
-    </ol>
-</div>
+<p><strong>6. Representations as a User&nbsp;</strong></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>As a User, you hereby represent that i) you are at least thirteen (13) years of age; and ii) you are not prohibited from receiving or using any aspect of the Cherio Services under applicable laws; and iii) Cherio has not previously disabled your account for a violation of the law or these Terms, even if these Terms have been amended.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
-<div style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'>
-    <ol style="margin-bottom:0in;list-style-type: undefined;margin-left:-0.25in;">
-        <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'><strong>&nbsp;Warranties as a User</strong></li>
-    </ol>
-</div>
+<p><strong>&nbsp;7. Warranties as a User</strong></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>As a User, you hereby warrant that i) you will comply with the applicable laws and regulations in your jurisdiction when you make any use whatsoever of the Cherio Services; and ii) you have the authority, as required under applicable law, to provide Cherio with you personally identifiable information and allow Cherio to use such personally identifiable information for the purposes for which you shared it with Cherio.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
-<div style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'>
-    <ol style="margin-bottom:0in;list-style-type: undefined;margin-left:12.5px;">
-        <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'><strong>Links to Third Party Sites/Third Party Services&nbsp;</strong></li>
-    </ol>
-</div>
+<p><strong>8. Links to Third Party Sites/Third Party Services&nbsp;</strong></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>The Cherio Services may contain links to third party websites (&quot;Linked Sites&quot;). The Linked Sites are not under the control of Cherio or any part of the Cherio Services and Cherio is not responsible for the contents of any Linked Site, including without limitation any link contained in a Linked Site, or any changes or updates to a Linked Site. Cherio is providing these links to you only as a convenience, and the inclusion of any link does not imply endorsement by Cherio of the website or any association with its operators.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
-<div style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'>
-    <ol style="margin-bottom:0in;list-style-type: undefined;margin-left:12.5px;">
-        <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'><strong>Device and Internet Connection&nbsp;</strong></li>
-    </ol>
-</div>
+<p><strong>9. Device and Internet Connection&nbsp;</strong></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>Access to the Cherio Services may require the use of your Device, as well as communication with or use of space on such Device. You are solely responsible for all internet and/or mobile data connection and all associated fees that you incur when accessing the Cherio Services.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
-<div style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'>
-    <ol style="margin-bottom:0in;list-style-type: undefined;margin-left:12.5px;">
-        <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'><strong>Software License Grant&nbsp;</strong></li>
-    </ol>
-</div>
+<p><strong>10. Software License Grant&nbsp;</strong></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>These Terms entitle you to install and use one copy of the Software on your Device. In addition, you may make one archival copy of the Software. The archival copy must be on a storage medium other than a hard drive, and may only be used for reinstallation of the Software. You may not use, copy, or install the Software on any system with more than one computer, or permit the use, copying, or installation of the Software by more than one User or on more than one computer. If you hold multiple, validly licensed copies of the Software, you may not use, copy, or install the Software on any system with more than the number of computers permitted by these Terms, or permit the use, copying, or installation by more Users, or on more computers than the number permitted by license.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>You may only use or install multiple copies of the Software if you obtain an appropriate licensing agreement for each User and a separate, corresponding copy of the Software.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
-<div style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'>
-    <ol style="margin-bottom:0in;list-style-type: undefined;margin-left:12.5px;">
-        <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'><strong>Intellectual Property&nbsp;</strong></li>
-    </ol>
-</div>
+<p><strong>11. Intellectual Property&nbsp;</strong></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>All content included as part of the Cherio Services, including, but not limited to, text, graphics, logos, images, as well as the compilation thereof, the look and feel of the Cherio Services, as well as the Software and the text, graphics, code, and other materials contained therein (collectively &ldquo;Protected Content&rdquo;) is the property of Cherio or its third party suppliers and protected by copyright, trademark, and other laws that protect intellectual property and proprietary rights. You agree to observe and abide by all copyright, trademark and other proprietary notices, legends or other restrictions contained in any such content and will not make any changes thereto.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>You will not modify, publish, transmit, reverse engineer, participate in the transfer or sale, create derivative works, or in any way exploit any of the Protected Content, in whole or in part, found within the Cherio Services. Your use of the Cherio Services does not entitle you to make any unauthorized use of any of the Protected Content, and in particular you shall not delete or alter any proprietary rights or attribution notices in any Protected Content. You shall use Protected Content solely for your personal use, as outlined in these Terms, and will make no other use of the Protected Content without the express written permission of Cherio and/or Protected Content&rsquo;s third party owner. You acknowledge and agree that you do not acquire any ownership rights in any Protected Content. Except as provided for herein, these Terms do not grant any licenses, express or implied, to the Protected Content or any other intellectual property of Cherio, our licensors, or any third party.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
-<div style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'>
-    <ol style="margin-bottom:0in;list-style-type: undefined;margin-left:12.5px;">
-        <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'><strong>Copyright Infringement Policy</strong></li>
-    </ol>
-</div>
+<p><strong>12. Copyright Infringement Policy</strong></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:7.5pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;background:white;'><span style="color:black;">Cherio is committed to protecting the rights of copyright rights holders and seeks to comply with all applicable laws and regulations regarding the protection of intellectual property.</span></p>
 <p style='margin:0in;margin-bottom:7.5pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;background:white;'><span style="color:black;">If you are a copyright owner or an agent thereof and believe that any content on Cherio or the Cherio Services infringes on your copyright, you may submit a notification pursuant to the Digital Millennium Copyright Act (&quot;DMCA&quot;) by providing our designated agent for copyright claim notifications (&ldquo;Designated Agent&rdquo;) with the following information in writing (see 17 U.S.C. &sect;512(c)(3) for further detail):</span></p>
@@ -186,11 +150,7 @@
 </ol>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>Cherio will process any notices of alleged copyright infringement and will take appropriate actions as permitted under the DMCA. Upon receipt of notices complying with the DMCA, Cherio will act expeditiously to remove or disable access to any material claimed to be infringing or claimed to be the subject of infringing activity and will act expeditiously to remove or disable access to any reference or link to material or activity that is claimed to be infringing.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
-<div style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'>
-    <ol style="margin-bottom:0in;list-style-type: undefined;margin-left:12.5px;">
-        <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'><strong><span style="color:black;">DMCA Counter Notification&nbsp;</span></strong></li>
-    </ol>
-</div>
+<p><strong><span style="color:black;">13. DMCA Counter Notification&nbsp;</span></strong></p>
 <p style='margin:0in;margin-bottom:7.5pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;background:white;'><span style="color:black;">Cherio may notify the owner or administrator of the affected content so that he or she can make a counter-notification pursuant to his or her rights under the DMCA. If you receive such a notice, you may provide counter-notification in writing to the Designated Agent. To be effective, the counter-notification must be a written communication that includes the following:</span></p>
 <ol start="1" style="list-style-type: lower-alpha;margin-left:0in;">
     <li><span style="color:black;">Your physical or electronic signature;</span></li>
@@ -206,11 +166,7 @@
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>Attn: Zachary Levine, Esq.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>zjl@wolklevine.com</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
-<div style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'>
-    <ol style="margin-bottom:0in;list-style-type: undefined;margin-left:-0.25in;">
-        <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'><strong>&nbsp;Use of Communication Services</strong></li>
-    </ol>
-</div>
+<p><strong>&nbsp;14. Use of Communication Services</strong></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>The Cherio Services may contain bulletin board services, chat areas, news groups, forums, communities, and/or other message or communication facilities designed to enable you to communicate with the public at large or with a group (collectively, &quot;Communication Services&quot;). You agree to use the Communication Services only to post, send and receive messages and material that are proper and related to the particular Communication Service.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
@@ -224,11 +180,7 @@
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>Materials uploaded to a Communication Service may be subject to posted limitations on usage, reproduction and/or dissemination. You are responsible for adhering to such limitations if you upload the materials.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
-<div style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'>
-    <ol style="margin-bottom:0in;list-style-type: undefined;margin-left:12.5px;">
-        <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'><strong>Apple-Enabled Services Application&nbsp;</strong></li>
-    </ol>
-</div>
+<p><strong>15. Apple-Enabled Services Application&nbsp;</strong></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>The Cherio Services operate in connection with products made commercially available by Apple, Inc. (&ldquo;Apple&rdquo;), in addition to other devices and operating systems. With respect to Cherio Services that are made available to you in connection with an Apple-branded product (such Cherio Services shall hereinafter be known as &ldquo;Apple-Enabled Services&rdquo;, the following terms and conditions apply, in addition to the terms and conditions set forth in these Terms:</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
@@ -268,51 +220,27 @@
     <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>If you have any complaints, questions, comments, or concerns with respect to the Apple-Enabled Services, you should direct them to Chris Pittard at chris@cherio.app.</li>
 </ol>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
-<div style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'>
-    <ol style="margin-bottom:0in;list-style-type: undefined;margin-left:12.5px;">
-        <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'><strong>&nbsp;International Users&nbsp;</strong></li>
-    </ol>
-</div>
+<p><strong>&nbsp;16. International Users&nbsp;</strong></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>The Cherio Services are controlled, operated and administered by Cherio from our offices within the United States. If you access the Cherio Services from a location outside the United States, you are responsible for compliance with all local laws. You agree that you will not use the Cherio Content accessed through Cherio Services in any country or in any manner prohibited by any applicable laws, restrictions or regulations.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
-<div style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'>
-    <ol style="margin-bottom:0in;list-style-type: undefined;margin-left:17px;">
-        <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'><strong>Indemnification&nbsp;</strong></li>
-    </ol>
-</div>
+<p><strong>17. Indemnification&nbsp;</strong></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>To the maximum extent permitted by applicable law, you agree to indemnify, defend and hold harmless Cherio, its officers, directors, employees, agents and third parties, and assigns from and against any and all claims, losses, costs, debt, liabilities and expenses (including, but not limited to attorney&rsquo;s fees) arising from (a) your misuse of and access to the Cherio Services; (b) your violation of these Terms; (c) your violation of any third party right, including without limitation any copyright, intellectual property, or privacy right; (d) your use of or inability to use the Cherio Services; and (e) any claim that you caused damage to a third party.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
-<div style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'>
-    <ol style="margin-bottom:0in;list-style-type: undefined;margin-left:17px;">
-        <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'><strong>Arbitration&nbsp;</strong></li>
-    </ol>
-</div>
+<p><strong>18. Arbitration&nbsp;</strong></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>In the event the parties are not able to resolve any dispute between them arising out of or concerning these Terms, or any provisions hereof, whether in contract, tort, or otherwise at law or in equity for damages or any other relief, then such dispute must be resolved solely by final and binding arbitration pursuant to the Federal Arbitration Act, conducted by a single neutral arbitrator applying Delaware law and administered by the American Arbitration Association, in a location mutually agreed upon by the parties. If the Parties cannot agree on a location, the arbitration will be conducted telephonically. The arbitrator&#39;s award will be final, and judgment may be entered upon it in any court having jurisdiction. In the event that any legal or equitable action, proceeding or arbitration arises out of or concerns these Terms, the prevailing party will be entitled to recover its costs and reasonable attorney&#39;s fees. The parties agree that the Federal Arbitration Act governs the interpretation and enforcement of this provision. The entire dispute, including the scope and enforceability of this arbitration provision shall be determined by the Arbitrator. This arbitration provision shall survive the termination of these Terms.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
-<div style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'>
-    <ol style="margin-bottom:0in;list-style-type: undefined;margin-left:17px;">
-        <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'><strong>Class Action Waiver</strong></li>
-    </ol>
-</div>
+<p><strong>19. Class Action Waiver</strong></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>Any arbitration under these Terms will take place on an individual basis; class arbitrations and class/representative/collective actions are not permitted. THE PARTIES AGREE THAT A PARTY MAY BRING CLAIMS AGAINST THE OTHER ONLY IN EACH PARTY&#39;S INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PUTATIVE CLASS, COLLECTIVE AND/ OR REPRESENTATIVE PROCEEDING, SUCH AS IN THE FORM OF A PRIVATE ATTORNEY GENERAL ACTION AGAINST THE OTHER. Further, unless both you and Cherio agree otherwise, the arbitrator may not consolidate more than one person&#39;s claims, and may not otherwise preside over any form of a representative or class proceeding.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
-<div style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'>
-    <ol style="margin-bottom:0in;list-style-type: undefined;margin-left:17px;">
-        <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'><strong>Termination and Access Restriction&nbsp;</strong></li>
-    </ol>
-</div>
+<p><strong>20. Termination and Access Restriction&nbsp;</strong></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>Cherio reserves the right, in its sole discretion, to terminate your access to the Cherio Services, the Software, and the related services or any portion thereof at any time, without notice. Use of the Cherio Services is unauthorized in any jurisdiction that does not give effect to all provisions of these Terms, including, without limitation, this section.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
-<div style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'>
-    <ol style="margin-bottom:0in;list-style-type: undefined;margin-left:17px;">
-        <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'><strong>Miscellaneous&nbsp;</strong></li>
-    </ol>
-</div>
+<p><strong>21. Miscellaneous&nbsp;</strong></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>You agree that no joint venture, partnership, employment, or agency relationship exists between you and Cherio as a result of these Terms or use of the Cherio Services.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
@@ -324,35 +252,19 @@
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>These Terms are non-transferable and you may not assign your rights and obligations under these Terms, or redistribute, encumber, sell, rent, lease, sublicense, or otherwise transfer your rights to the Software without the express written consent of Cherio.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
-<div style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'>
-    <ol style="margin-bottom:0in;list-style-type: undefined;margin-left:17px;">
-        <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'><strong>Changes to Terms&nbsp;</strong></li>
-    </ol>
-</div>
+<p><strong>22. Changes to Terms&nbsp;</strong></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>Cherio reserves the right, at any time and in its sole discretion, to change or amend these Terms. Cherio encourages you to periodically review the Terms to stay informed of our updates. <span style="color:black;">Cherio will provide you with notice of such changes. Notice of any changes to these Terms will be accomplished upon the earlier occurrence of either, Cherio sending you an email to the address listed in your Account, notifying you of such changes, or Cherio announcing such changes through the&nbsp;</span>Cherio Services<span style="color:black;">. Such changes will go into effect immediately upon your access of the&nbsp;</span>Cherio Services<span style="color:black;">&nbsp;after you are given notice, as described herein.&nbsp;</span>The most current version of the Terms will supersede all previous versions. <span style="color:black;">Your continued use of the&nbsp;</span>Cherio Services<span style="color:black;">&nbsp;following the notice of any changes to these Terms constitutes your acceptance of such changes.</span></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
-<div style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'>
-    <ol style="margin-bottom:0in;list-style-type: undefined;margin-left:-0.25in;">
-        <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'><strong>Choice of Law&nbsp;</strong></li>
-    </ol>
-</div>
+<p><strong>23. Choice of Law&nbsp;</strong></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>You hereby consent to the jurisdiction of the State of Delaware and agree that its law will be used to resolve all disputes arising from or concerning these Terms.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
-<div style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'>
-    <ol style="margin-bottom:0in;list-style-type: undefined;margin-left:-0.25in;">
-        <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'><strong>NOTICE FOR CALIFORNIA CONSUMERS</strong></li>
-    </ol>
-</div>
+<p><strong>24. NOTICE FOR CALIFORNIA CONSUMERS</strong></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>Under California Civil Code Section 1789.3, California Users of the Cherio website or Service upon use of applicable services (as defined by California Civil Code Section 1789.2) may file a complaint regarding an applicable service and receive further information on resolving such complaints from the Complaint Assistance Unit of the Division of Consumer Services of the Department of Consumer Affairs online at http://www.dca.ca.gov/ or call 800.952.5210 to have a complaint form &nbsp;mailed to you.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
-<div style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'>
-    <ol style="margin-bottom:0in;list-style-type: undefined;margin-left:-0.25in;">
-        <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'><strong>Contact Us&nbsp;</strong></li>
-    </ol>
-</div>
+<p><strong>25. Contact Us&nbsp;</strong></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>Cherio welcomes your questions or comments regarding these Terms. You may contact us at:</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
