@@ -6,7 +6,7 @@
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>Regarding the Software, you accept and agree to be bound by these Terms by installing, running, using, or copying the Software onto your mobile device, computer, tablet, or other applicable device (each a &ldquo;Device&rdquo;). You must agree to these Terms before you will be allowed to download or use the Software. If you do not agree to all of these Terms, you must select &ldquo;Decline&rdquo; and you may not install, use, run, or copy the Software or use the Cherio Services. &nbsp;&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
-<p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>By accepting these Terms, you confirm that you are at least 13 years of age. Neither Cherio nor any parts of the Cherio Services are intended for anyone under 13 years of age without separate express written consent from the minor&rsquo;s parent(s) or guardian(s). To inquire about giving such consent, which does not guarantee that a minor may use the Cherio Services, contact [<span style="background:yellow;">ADD CONTACT INFORMATION</span>].</p>
+<p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>By accepting these Terms, you confirm that you are at least 13 years of age. Neither Cherio nor any parts of the Cherio Services are intended for anyone under 13 years of age without separate express written consent from the minor&rsquo;s parent(s) or guardian(s). To inquire about giving such consent, which does not guarantee that a minor may use the Cherio Services, contact Chris Pittard at chris@cherio.app.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><strong>Use of Services</strong></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Cambria",serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
@@ -275,7 +275,7 @@
 </ol>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.5in;text-align:justify;'>&nbsp;</p>
 <ol start="9" style="margin-bottom:0in;margin-top:0in;" type="a">
-    <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>If you have any complaints, questions, comments, or concerns with respect to the Apple-Enabled Services, you should direct them to [<span style="background:     yellow;">ADD CONTACT INFORMATION</span>].</li>
+    <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>If you have any complaints, questions, comments, or concerns with respect to the Apple-Enabled Services, you should direct them to Chris Pittard at chris@cherio.app.</li>
 </ol>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
 <div style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'>
@@ -366,7 +366,7 @@
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>Cherio welcomes your questions or comments regarding these Terms. You may contact us at:</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
-<p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'><span style="background:yellow;">[INSERT CONTACT EMAIL/ADDRESS]</span></p>
+<p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>chris@cherio.app</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
-<p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>These Terms shall hereby go into effect as of <span style="background:yellow;">[INSERT DATE OF POSTING/LAUNCH OF APP]</span>.</p>
+<p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>These Terms shall hereby go into effect as of June 10, 2020.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
