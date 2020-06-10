@@ -20,25 +20,17 @@
 <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Cambria",serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Cambria",serif;text-align:justify;'><strong><span style='font-size:16px;font-family:"Times New Roman",serif;'>CHERIO WAS CREATED TO ALLOW USERS TO SHARE THEIR EXPERIENCES AND FEELINGS WITH OTHERS. THIS OUTLET IS MEANT TO BE A POSITIVE EXPERIENCE AND INTENDED TO ASSIST USERS WITH THEIR PROBLEMS &ndash; SOME USERS BENEFIT FROM SHARING, OTHERS FROM READING WHAT OTHERS HAVE SHARED AND REALIZING THAT THEIR STRUGGLES ARE NOT UNIQUE. CHERIO IS NOT INTENDED TO BE USED IN LIEU OF PROFESSIONAL OR MEDICAL ADVICE WHERE SUCH ASSISTANCE MAY BE NECESSARY AND CHERIO DOES NOT ENDORSE THE COMMENTS OR GUIDANCE PROVIDED BY ANY OF ITS USERS. IF YOU HAVE AN EMERGENCY OR NEED MEDICAL ASSISTANCE, YOU SHOULD SEEK THAT DIRECTLY.</span></strong></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Cambria",serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
-<p><strong>Privacy</strong></p>
+<p><strong>1. Privacy</strong></p>
     
-
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>Your use of the Cherio Services is conditioned upon your agreement to Cherio&rsquo; Privacy Policy (&ldquo;Privacy Policy&rdquo;). Please review the complete Privacy Policy, which is incorporated herein by reference.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
-<div style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'>
-    <ol style="margin-bottom:0in;list-style-type: undefined;margin-left:-0.25in;">
-        <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'><strong>Electronic Communications&nbsp;</strong></li>
-    </ol>
-</div>
+<p><strong>2. Electronic Communications&nbsp;</strong></p>
+
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>Each and every time you either use the Cherio Services or send an email, SMS, MMS, text message, or other electronic communication to Cherio will constitute an electronic communication (&ldquo;Electronic Communications&rdquo;). By using the Cherio Services, you consent to receive Electronic Communications and you agree that all agreements, notices, disclosures and other communications that Cherio provides to you via Electronic Communication, individually and collectively, satisfy any legal requirement that such communications be in writing.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
-<div style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'>
-    <ol style="margin-bottom:0in;list-style-type: undefined;margin-left:-0.25in;">
-        <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'><strong>Account</strong></li>
-    </ol>
-</div>
+<p><strong>3. Account</strong></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>To use the Cherio Services, you must set up a unique User account (&ldquo;Account&rdquo;), which includes a unique and complex password (&ldquo;Password&rdquo;) used to access your Account. You are solely responsible for maintaining the confidentiality and security of your Account and Password. Such security includes, but is not limited to restricting access to your Device that you use to access the Cherio Services and/or where such Password may be stored. You agree that you are solely responsible for all activities and actions that occur under the auspices of your Account. You agree not to assign or otherwise transfer your Account to or share your Password with any other person or entity. You acknowledge and agree that Cherio is not responsible for third party access to your Account that results from theft or misappropriation of your Password or other Account credentials. Cherio reserves the right to refuse or cancel service, terminate Accounts, or disqualify Users, in our sole discretion. Cherio also reserves all available legal rights and remedies to prevent the unauthorized use of the Cherio Services, including, but not limited to, technological barriers, IP mapping, and contacting your internet service provider. You hereby acknowledge and agree that any action taken under your Account will be presumed to have been authorized by you.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
