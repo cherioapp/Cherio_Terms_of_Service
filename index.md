@@ -20,11 +20,9 @@
 <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Cambria",serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Cambria",serif;text-align:justify;'><strong><span style='font-size:16px;font-family:"Times New Roman",serif;'>CHERIO WAS CREATED TO ALLOW USERS TO SHARE THEIR EXPERIENCES AND FEELINGS WITH OTHERS. THIS OUTLET IS MEANT TO BE A POSITIVE EXPERIENCE AND INTENDED TO ASSIST USERS WITH THEIR PROBLEMS &ndash; SOME USERS BENEFIT FROM SHARING, OTHERS FROM READING WHAT OTHERS HAVE SHARED AND REALIZING THAT THEIR STRUGGLES ARE NOT UNIQUE. CHERIO IS NOT INTENDED TO BE USED IN LIEU OF PROFESSIONAL OR MEDICAL ADVICE WHERE SUCH ASSISTANCE MAY BE NECESSARY AND CHERIO DOES NOT ENDORSE THE COMMENTS OR GUIDANCE PROVIDED BY ANY OF ITS USERS. IF YOU HAVE AN EMERGENCY OR NEED MEDICAL ASSISTANCE, YOU SHOULD SEEK THAT DIRECTLY.</span></strong></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Cambria",serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>&nbsp;</span></p>
-<div style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'>
-    <ol style="margin-bottom:0in;list-style-type: decimal;margin-left:-0.25in;">
-        <li style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;'><strong>Privacy</strong></li>
-    </ol>
-</div>
+<p><strong>Privacy</strong></p>
+    
+
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>&nbsp;</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;text-align:justify;'>Your use of the Cherio Services is conditioned upon your agreement to Cherio&rsquo; Privacy Policy (&ldquo;Privacy Policy&rdquo;). Please review the complete Privacy Policy, which is incorporated herein by reference.</p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:16px;font-family:"Times New Roman",serif;margin-left:.25in;text-align:justify;'>&nbsp;</p>
