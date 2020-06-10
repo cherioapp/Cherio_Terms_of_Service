@@ -1,103 +1,72 @@
-<h1>Privacy Policy</h1>
+<h1>Cherio Mobile Application – Privacy Policy</h1>
 
+<p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>The Cherio mobile application, operated by Cherio LLC, (hereafter &ldquo;<strong>Cherio</strong>&rdquo; or &ldquo;<strong>we</strong>,&rdquo; &ldquo;<strong>our</strong>,&rdquo; and &ldquo;<strong>us</strong>&rdquo; depending on context) is committed to safeguarding your privacy online. Please read the following privacy policy (&ldquo;<strong>Privacy Policy</strong>&rdquo;) to understand how your information will be treated as you make full use of our mobile application (&ldquo;<strong>App</strong>&rdquo;) and website (collectively, the &ldquo;<strong>Service</strong>&rdquo;).</span></p>
 
-<p>Effective date: May 06, 2020</p>
-
-
-<p>Cherio ("us", "we", or "our") operates the Cherio mobile application (hereinafter referred to as the "Service").</p>
-
-<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.</p>
-
-<p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p>
-
-
-<h2>Information Collection And Use</h2>
-
-<p>We collect several different types of information for various purposes to provide and improve our Service to you.</p>
-
-<h3>Types of Data Collected</h3>
-
-<h4>Personal Data</h4>
-
-<p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:</p>
-
-<ul>
-<li>Cookies and Usage Data</li>
+<p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>This Privacy Policy will let you know:</span></p>
+<ul style="list-style-type: undefined;margin-left:0in;">
+    <li><span style='font-family:"Times New Roman",serif;font-size:16px;'>How and when you are consenting to this Privacy Policy;</span></li>
+    <li><span style='font-family:"Times New Roman",serif;font-size:16px;'>Cherio&rsquo;s position on the use of its Service by minors and the collection of Personal Information from minors;</span></li>
+    <li><span style='font-family:"Times New Roman",serif;font-size:16px;'>What information Cherio collects from your device;</span></li>
+    <li><span style='font-family:"Times New Roman",serif;font-size:16px;'>What Personal Information Cherio collects from you;</span></li>
+    <li><span style='font-family:"Times New Roman",serif;font-size:16px;'>What cookies, pixel tags, and mobile device IDs are, and how Cherio uses them;</span></li>
+    <li><span style='font-family:"Times New Roman",serif;font-size:16px;'>How Cherio uses your information and with whom your information is shared;</span></li>
+    <li><span style='font-family:"Times New Roman",serif;font-size:16px;'>Cherio&rsquo;s policy regarding linked websites and embedded services;</span></li>
+    <li><span style='font-family:"Times New Roman",serif;font-size:16px;'>What your choices are regarding the collection, use, and distribution of your information;</span></li>
+    <li><span style='font-family:"Times New Roman",serif;font-size:16px;'>What security precautions are in place to protect the loss, misuse, or alteration of your information;</span></li>
+    <li><span style='font-family:"Times New Roman",serif;font-size:16px;'>How long your data is kept;</span></li>
+    <li><span style='font-family:"Times New Roman",serif;font-size:16px;'>What we do not do;</span></li>
+    <li><span style='font-family:"Times New Roman",serif;font-size:16px;'>Cherio&rsquo;s policy on Do Not Track signals;</span></li>
+    <li><span style='font-family:"Times New Roman",serif;font-size:16px;'>What else you should know about your privacy;</span></li>
+    <li><span style='font-family:"Times New Roman",serif;font-size:16px;'>When this Privacy Policy is effective and how and when changes may be made;</span></li>
+    <li><span style='font-family:"Times New Roman",serif;font-size:16px;'>How to contact us.</span></li>
 </ul>
-
-<h4>Usage Data</h4>
-
-<p>When you access the Service with a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data ("Usage Data").</p>
-
-<h4>Tracking & Cookies Data</h4>
-<p>We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.</p>
-<p>Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.</p>
-<p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service. </p>
-<p>Examples of Cookies we use:</p>
-<ul>
-    <li><strong>Session Cookies.</strong> We use Session Cookies to operate our Service.</li>
-    <li><strong>Preference Cookies.</strong> We use Preference Cookies to remember your preferences and various settings.</li>
-    <li><strong>Security Cookies.</strong> We use Security Cookies for security purposes.</li>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Times New Roman",serif;'>Consent</span></strong></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>By submitting to us any individually identifiable information that would allow us to determine the actual identity of, and contact, you as a specific living person (&ldquo;<strong>Personal Information</strong>&rdquo;) (through the use of the Service and/or signing up to receive more information) you agree that we may collect, use, and disclose such Personal Information in accordance with this Privacy Policy and as permitted or required by law. If you do not agree with these terms, please do not provide any Personal Information to us.</span></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>Further, any information you post or provide through the service is done with your consent that we can receive, distribute, and modify the same as part of providing you the Service.</span></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>If you refuse or withdraw your consent, or if you choose not to provide us with any required Personal Information, we may not be able to provide you with the Service and/or advertisements and other services that can be offered on the Service only if we have access certain Personal Information.</span></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>Please also remember that most of what you post through the Service is visible to third parties. In addition to your Personal Information, you should take care not to post any sensitive information that you don&rsquo;t want disclosed or that would expose you to personal injury or harm. You are responsible for your use of the Service and for everything you post.&nbsp;</span></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><strong><span style='font-size:16px;font-family:"Times New Roman",serif;'>Minors</span></strong></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>Minors (as defined under the laws of THEIR jurisdiction or residence) are not eligible to use the Service in any way without the express written consent of their parent(s) or guardian(s). We do not knowingly collect Personal Information from any minor, and we will not use this information if we discover that it has been provided by a minor. Parents and guardians of minors who are interested in providing consent for the use of the Service should contact Chris Pittard at chris@cherio.app. We do not guarantee that all minors, even with consent, will be eligible to use the Service and special permission, once granted, may be revoked by Cherio at any time without notice.&nbsp;</span></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><strong><span style='font-size:16px;font-family:"Times New Roman",serif;'>What Information does Cherio collect from your device?</span></strong></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>When you access or use the Service via a computer or mobile device, including, without limitation, a desktop computer, laptop, mobile phone, table, or other electronic device (each a &ldquo;<strong>Device</strong>&rdquo;), Cherio may collect information from your Device, such as Device type and manufacturer, your Device operating system and version, your mobile carrier, your Device identifiers, your IP address, your browser type of version, and your network connection type.</span></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><strong><span style='font-size:16px;font-family:"Times New Roman",serif;'>What Personal Information does Cherio collect from you?</span></strong></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>Cherio collects information in several ways. Some Personal Information is gathered when you create a Cherio account through the Service (&ldquo;<strong>Account</strong>&rdquo;). When creating an Account, you will be asked to provide your first and last name, and email address. Cherio may require additional user information in the future as it improves or releases new Service features.</span></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><strong><span style='font-size:16px;font-family:"Times New Roman",serif;'>What are cookies, pixel tags, and mobile device IDs, and how does Cherio use them?</span></strong></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>Cherio uses cookies and pixel tags to store and sometimes track information about you. A &ldquo;cookie&rdquo; is a small amount of data that is sent to your browser or smartphone device from a web server and stored on your device&rsquo;s hard drive. A &ldquo;pixel tag&rdquo; is similar to a cookie in that it can collect information on a user&rsquo;s movements on the Internet. Generally, we use cookies and pixel tags to collect additional Service usage data, improve our Service, and personalize your experience. Using cookies and pixel tags helps us to gather and monitor Service analytics and data; authenticate your login to the Service to ensure a safe experience; prevent spam, scammers, and phishers; and facilitate user-to-user interactions, such as chatting, posting and sharing content, and providing links to third-party services.</span></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>Cherio also uses mobile device IDs, which are unique identifiers assigned to each mobile device, to recognize you when you use our App. We may use your mobile device ID to store your preferences, track your Service use, send you push notifications and crash or error reports, and more.</span></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><strong><span style='font-size:16px;font-family:"Times New Roman",serif;'>How does Cherio use your information and with whom is your information shared?</span></strong></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>Our primary goal in collecting Personal Information is to provide you with the best experience possible through our Service. The majority of information that is collected about you is for the purpose of better understanding our users, expanding our user base, and ensuring that you have a safe and worry-free experience. We may also use the information we collect for purposes including, without limitation, advertisement tracking and analytics, supporting and improving our Service functionality, personalizing your user experience, and maintaining the security of our users and the Service.</span></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>We will not share your Personal Information except as outlined in this Privacy Policy. We may share information, including Personal Information, without notice, with third parties that perform certain services on our behalf.</span></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>We may disclose your Personal Information in the following additional circumstances:</span></p>
+<ul style="list-style-type: undefined;margin-left:0in;">
+    <li><span style='font-family:"Times New Roman",serif;font-size:16px;'>To effect a corporate transaction, in connection with the sale, merger, spin-off or other corporate reorganization of our corporation, where the information is provided to the new controlling entity in regular course of business. In the event of such an occurrence, we will make every effort to inform you of the transfer of your Personal Information;</span></li>
+    <li><span style='font-family:"Times New Roman",serif;font-size:16px;'>As is required by our insurers and by regulatory agencies or to employees, contractors, consultants, and agents of Cherio to perform necessary actions in the normal course of business. No more information than is required in these circumstances will be provided;</span></li>
+    <li><span style='font-family:"Times New Roman",serif;font-size:16px;'>To establish or exercise our legal rights, to defend against legal claims, when otherwise required by law or in response to a court order, or to comply with law enforcement; and</span></li>
+    <li><span style='font-family:"Times New Roman",serif;font-size:16px;'>To enforce this Privacy Policy or our Terms of Use.</span></li>
 </ul>
-
-<h2>Use of Data</h2>
-
-<p>Cherio uses the collected data for various purposes:</p>
-<ul>
-    <li>To provide and maintain the Service</li>
-    <li>To notify you about changes to our Service</li>
-    <li>To allow you to participate in interactive features of our Service when you choose to do so</li>
-    <li>To provide customer care and support</li>
-    <li>To provide analysis or valuable information so that we can improve the Service</li>
-    <li>To monitor the usage of the Service</li>
-    <li>To detect, prevent and address technical issues</li>
-</ul>
-
-<h2>Transfer Of Data</h2>
-<p>Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p>
-<p>If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.</p>
-<p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
-<p>Cherio will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p>
-
-<h2>Disclosure Of Data</h2>
-
-<h3>Legal Requirements</h3>
-<p>Cherio may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
-<ul>
-    <li>To comply with a legal obligation</li>
-    <li>To protect and defend the rights or property of Cherio</li>
-    <li>To prevent or investigate possible wrongdoing in connection with the Service</li>
-    <li>To protect the personal safety of users of the Service or the public</li>
-    <li>To protect against legal liability</li>
-</ul>
-
-<h2>Security Of Data</h2>
-<p>The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.</p>
-
-<h2>Service Providers</h2>
-<p>We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.</p>
-<p>These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p>
-
-
-
-<h2>Links To Other Sites</h2>
-<p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.</p>
-<p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
-
-
-<h2>Children's Privacy</h2>
-<p>Our Service does not address anyone under the age of 18 ("Children").</p>
-<p>We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.</p>
-
-
-<h2>Changes To This Privacy Policy</h2>
-<p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p>
-<p>We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.</p>
-<p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
-
-
-<h2>Contact Us</h2>
-<p>If you have any questions about this Privacy Policy, please contact us:</p>
-<ul>
-        <li>By email: chris@cherio.app</li>
-</ul>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><strong><span style='font-size:16px;font-family:"Times New Roman",serif;'>Linked websites and applications, and embedded services</span></strong></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>The Service may contain links that will let you leave the Service and access another website or mobile application. Similarly, portions of the Service may employ the use of embedded services from third-parties, such as for the processing of credit card transactions. These &ldquo;linked websites&rdquo; and &ldquo;linked applications&rdquo; are not under our control and it is possible that these websites or applications have a different privacy policy. This Privacy Policy applies solely to Personal Information that is acquired through our Service. We accept no responsibility or liability for your use or disclosure of Personal Information to linked websites or applications.</span></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><strong><span style='font-size:16px;font-family:"Times New Roman",serif;'>What are your choices regarding the collection, use, and distribution of your information?</span></strong></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>The disclosure of Personal Information is required to create an Account, which is required to access our Service. If you do not wish to disclose the requisite information you are free to discontinue use of the Service.</span></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>You also have choices with respect to cookies. By modifying your Internet browser preferences, you may have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies the Service may not be displayed or function in the way we intend.&nbsp;</span></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>Our Service will deliver &ldquo;push&rdquo; notifications to your phone or mobile device. You can disable these notifications through the App or going into your device&rsquo;s application settings.</span></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><strong><span style='font-size:16px;font-family:"Times New Roman",serif;'>What is Cherio&rsquo;s policy on allowing you to update, correct, or delete your Personal Information?</span></strong></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>If you wish to update, correct, or delete any of the information about you stored by the Service, send an inquiry to Chris Pittard at chris@cherio.app. You can also change your Personal Information by logging into your Account and changing the settings. To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections.</span></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><strong><span style='font-size:16px;font-family:"Times New Roman",serif;'>What security precautions are in place to protect the loss, misuse, or alteration of your information?</span></strong></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>We will take the appropriate organizational and technical measures to protect your Personal Information and other data provided to or collected by us that are necessary to comply fully with any and all applicable laws, obligations, and regulations.</span></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your Personal Information, we cannot ensure or warrant the security of any information you transmit to us or from our Service, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.</span></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><strong><span style="font-size:16px;border:none windowtext 1.0pt;padding:0in;">How long is your Personal Information stored?</span></strong></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>We may retain your Personal Information for as long as permitted by law and as long as is necessary to permit you to use our Service without the requirement of resubmitting the same information.</span></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><strong><span style='font-size:16px;font-family:"Times New Roman",serif;'>What we do NOT do</span></strong></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>We do not and will not, at any time, request your credit card information, login name, or password, in an unsecure or unsolicited e-mail or telephone communication.</span></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><strong><span style='font-size:16px;font-family:"Times New Roman",serif;'>Do Not Track disclosure</span></strong></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>Mobile device users can set their device preferences to Do Not Track (&ldquo;<strong>DNT</strong>&rdquo;) to tell websites and services not to collect information from that device. However, we do not recognize or respond to DNT signals.</span></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><strong><span style='font-size:16px;font-family:"Times New Roman",serif;'>What else should you know about your privacy?</span></strong></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>If you choose to use our Service you should be aware that any information transmitted electronically via the Internet may not be secure. We assume no liability for the loss or misuse of any information that you transmit to us via the Internet.&nbsp;</span></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>Further, the information you upload or post to publicly viewable pages on the Service is publicly available and may be viewed, collected, and used by other users. Please refer to our Terms of Use regarding the posting of content and interactions with other users, and we encourage you to caution and discretion with respect to your personal information.</span></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>In communicating with you, we may send e-mail as unencrypted plain text because we are aware that most customers cannot easily process encrypted e-mail. This is done for your convenience, but with the security concern that, if misrouted or intercepted, it could be read more easily than encrypted e-mail.</span></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><strong><span style='font-size:16px;font-family:"Times New Roman",serif;'>Effective date of this Privacy Policy and future modification</span></strong></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>This Privacy Policy is effective as of <strong>June 10, 2020</strong>. We reserve the right to make changes, deletions, modifications, or provide supplements to this policy from time to time. Changes will apply to the information collected after the date of changes as well as to existing information held by us and will take effect immediately upon publication, unless otherwise stated in writing by Cherio. You agree that the express acceptance by you, or your continued use of our Service after publication of changes, shall constitute your acceptance of the current Privacy Policy.</span></p>
+<p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><strong><span style='font-size:16px;font-family:"Times New Roman",serif;'>How to contact us</span></strong></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>If you have any questions or concerns about this Privacy Policy, please contact us by email as follows:</span></p>
+ <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri",sans-serif;text-align:justify;'><span style='font-size:16px;font-family:"Times New Roman",serif;'>Chris Pittard at chris@cherio.app</span></p>
